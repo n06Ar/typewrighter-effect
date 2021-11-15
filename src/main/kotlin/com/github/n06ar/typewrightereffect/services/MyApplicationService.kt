@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.n06ar.typewrightereffect.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.n06ar.typewrightereffect.MyBundle
 
 class MyApplicationService {
 
